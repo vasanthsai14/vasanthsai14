@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vasanthsai14
 - 👀 I’m interested in Fullstack web development and AI-ML
-- 🌱 I’m currently learning Advanced Python and Machine Learning Algorithms
+- 🌱 I’m currently learning React and Node JS
 - 💞️ I’m looking to collaborate on any projects on Front-end and AI-ML
 - 📫 Reach me through my twitter - @vasanth_sai_
 
